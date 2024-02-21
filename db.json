@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "The Art of Cooking",
+      "description": "Discover the joy of cooking with our comprehensive guide. From basic techniques to advanced recipes, we cover everything you need to know to become a master chef in your own kitchen.",
+      "like_count": 102
+    },
+    {
+      "id": 2,
+      "title": "Exploring the Cosmos",
+      "description": "Embark on a journey through the universe and unravel the mysteries of space. From the Big Bang to black holes, our exploration will ignite your curiosity and expand your understanding of the cosmos.",
+      "like_count": 76
+    },
+    {
+      "id": 3,
+      "title": "The Power of Meditation",
+      "description": "Experience inner peace and tranquility through the practice of meditation. Learn proven techniques to reduce stress, increase focus, and cultivate mindfulness in your daily life.",
+      "like_count": 124
+    },
+    {
+      "id": 4,
+      "title": "Mastering Chess Strategy",
+      "description": "Elevate your chess game with strategic insights and tactical maneuvers. Whether you're a novice or a seasoned player, our guide will help you develop the skills needed to outwit your opponents.",
+      "like_count": 89
+    },
+    {
+      "id": 5,
+      "title": "The World of Photography",
+      "description": "Capture life's moments with passion and creativity through the lens of photography. From composition techniques to post-processing tips, our resources will inspire and empower your photographic journey.",
+      "like_count": 143
+    },
+    {
+      "id": 6,
+      "title": "Healthy Living Essentials",
+      "description": "Transform your lifestyle with holistic approaches to health and wellness. Explore nutritious recipes, fitness routines, and mindfulness practices to nourish your body, mind, and soul.",
+      "like_count": 98
+    }
+  ]
+}
